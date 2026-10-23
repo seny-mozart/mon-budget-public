@@ -1,0 +1,14 @@
+MON BUDGET – version publique (à partager)
+==========================================
+Fichiers : index.html, sw.js, manifest.webmanifest, dossier icons/.
+
+PUBLIER SUR GITHUB (nouveau dépôt, séparé de ta version perso)
+1. github.com > "+" > New repository.
+2. Nom : mon-budget  (ou autre) – visibilité : Public – Create repository.
+3. "uploading an existing file" : glisse TOUT LE CONTENU du dossier (pas le dossier lui-même),
+   index.html doit être à la racine. Commit changes.
+4. Settings > Pages > Deploy from a branch > main / (root) > Save.
+5. Après 1-2 min : https://TON-PSEUDO.github.io/mon-budget/
+
+MISES À JOUR : remplace les fichiers modifiés sur GitHub et change "budget-public-v1"
+en "budget-public-v2" dans sw.js.
